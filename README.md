@@ -1,1 +1,1 @@
- * link https://github.com/ashton-kochnev/rsschool-cv/blob/gh-pages/cv.md
+ https://ashton-kochnev.github.io/rsschool-cv/cv
