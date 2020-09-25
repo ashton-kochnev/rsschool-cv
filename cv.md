@@ -8,5 +8,6 @@
   * HTML
   * CSS
   * Java Script
+  * React
 ## Courses: *rolling-scopes-school* by epam
 ## English: *Beginer*
